@@ -17,10 +17,13 @@ See Eq. (1) of Ref. 1 for the full model definition.
 This model includes:
 - Guinier–Porod term
 - Background term
+
 See Eq. (2) of Ref. 1 for details.
 
 * User Input
+
 The user must provide:
+
 - SAXS raw data in CSV format containing:
   - Momentum transfer 𝑞
   - Scattering intensity I(q)
